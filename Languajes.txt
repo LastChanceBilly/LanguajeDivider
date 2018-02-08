@@ -1,0 +1,20 @@
+0-(Visual) FoxPro
+1-ABAP
+2-Algol
+3-Bourne Shell
+4-Bro
+5-Ch
+6-Factor
+7-HPL
+8-Icon
+9-LabVIEW
+10-Magik
+11-MANTIS
+12-MATLAB
+13-NQC
+14-Parrot
+15-Seed7
+16-Smarty
+17-SuperCollider
+18-WebDNA
+19-Whitespace
