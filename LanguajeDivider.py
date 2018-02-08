@@ -6,6 +6,7 @@ def main():
     archivo = None
     try:
         archivo = open("Languajes.txt", "r+")
+        print("Archivo 'Languajes.txt' encontrado")
     except:
         directory = raw_input("Locacion del archivo: ")
         try:
